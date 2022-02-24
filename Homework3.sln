@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoundCone", "RoundCone\RoundCone.csproj", "{B3099152-2D7E-4C0D-8119-95352B6C244F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{56C38D40-6F80-444B-BC09-D99259351FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD", "GCD\GCD.csproj", "{F8B963B4-292E-4501-BDD1-FCCD473E0980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3099152-2D7E-4C0D-8119-95352B6C244F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3099152-2D7E-4C0D-8119-95352B6C244F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3099152-2D7E-4C0D-8119-95352B6C244F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3099152-2D7E-4C0D-8119-95352B6C244F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C38D40-6F80-444B-BC09-D99259351FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C38D40-6F80-444B-BC09-D99259351FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C38D40-6F80-444B-BC09-D99259351FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C38D40-6F80-444B-BC09-D99259351FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B963B4-292E-4501-BDD1-FCCD473E0980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B963B4-292E-4501-BDD1-FCCD473E0980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B963B4-292E-4501-BDD1-FCCD473E0980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B963B4-292E-4501-BDD1-FCCD473E0980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2AECE04-965F-44ED-AC12-069ABC3554D4}
+	EndGlobalSection
+EndGlobal
